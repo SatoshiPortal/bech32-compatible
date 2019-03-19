@@ -6,6 +6,6 @@ List of bech32 compatible wallets (wall of fame + wall of shame)
 | Bitcoin Core | Yes | Yes | No |
 | Electrum | Yes | Yes | Yes | No | 
 | Samourai | Yes | Yes | Yes | No |
-| Trezor | ? | ? | ? | ? | ? | Yes |
+| Trezor | ? | ? | ? | Yes |
 
 ### contributions welcome!
